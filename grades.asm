@@ -1,4 +1,3 @@
-#Rana Khaled 20180103 Group AI S3
 .data
 	grade: .space 12
 	finalGrade: .asciiz "Total grade is: "
